@@ -1,6 +1,4 @@
 import {
-  addCreator,
-  deleteCreator,
   ADD_USER,
   DELETE_USER,
 } from './users.actions';
